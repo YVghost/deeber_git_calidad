@@ -22,3 +22,6 @@ target/
 .settings/
 .classpath
 .project
+
+# Informe local
+informe/
